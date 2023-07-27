@@ -4,7 +4,7 @@ h1{
     border-color:red blue rgb(137, 171, 4) green;
 }
 .class1{
-    color:red;
+    color:green;
 }
 p{
     
@@ -20,9 +20,9 @@ p{
     width: 2000%;
 }
 .class1 h1{
-    color: rgb(201, 199, 203);
+    color: rgb(291, 199, 203);
 }
 .class1 #pfirst{
-    color:cyan;
-    background-color: brown;
+    color:orange;
+    background-color: black;
 }
