@@ -1,0 +1,28 @@
+h1{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color:red blue rgb(137, 171, 4) green;
+}
+.class1{
+    color:red;
+}
+p{
+    
+    color:gray;
+
+}
+.class1{
+    background-image: url("souta.jpg");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    height: 1000px;
+    width: 2000%;
+}
+.class1 h1{
+    color: rgb(201, 199, 203);
+}
+.class1 #pfirst{
+    color:cyan;
+    background-color: brown;
+}
